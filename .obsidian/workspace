@@ -7,8 +7,12 @@
         "id": "3e52b29a9287dc4e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/Physics/创建力场.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github ghp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Physics/创建力场.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Physics/创建力场.md"
+              }
             }
           }
         ],
@@ -113,6 +119,7 @@
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
+    "docs/Physics/创建力场.md",
     "计算机/Linux/搭建/Github/github token.md",
     "计算机/Linux/搭建/Github/GitHub CLI.md",
     "计算机/Linux/搭建/supabase部署应用.md",
@@ -121,7 +128,6 @@
     "计算机/Linux/搭建/self-hosted/self-hosts.md",
     "计算机/Linux/搭建/搭建书签归档 bookmark.md",
     "计算机/Linux/搭建/hexo博客搭建和部署.md",
-    "计算机/lang/Penetration/tools/CS/实操/CS部署 CS.md",
-    "计算机/lang/Python/3rdLibrary/hapless未命名.md"
+    "计算机/lang/Penetration/tools/CS/实操/CS部署 CS.md"
   ]
 }
