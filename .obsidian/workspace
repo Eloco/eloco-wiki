@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Physics/创建力场.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Physics/创建力场.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Physics/创建力场.md"
+                "file": "README.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
+    "README.md",
     "docs/Physics/创建力场.md",
     "计算机/Linux/搭建/Github/github token.md",
     "计算机/Linux/搭建/Github/GitHub CLI.md",
@@ -127,7 +128,6 @@
     "计算机/lang/Penetration/tools/Weapon/Android/Andrax/部署.md",
     "计算机/Linux/搭建/self-hosted/self-hosts.md",
     "计算机/Linux/搭建/搭建书签归档 bookmark.md",
-    "计算机/Linux/搭建/hexo博客搭建和部署.md",
-    "计算机/lang/Penetration/tools/CS/实操/CS部署 CS.md"
+    "计算机/Linux/搭建/hexo博客搭建和部署.md"
   ]
 }
