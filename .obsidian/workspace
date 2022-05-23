@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "474ab85f1fa15d5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e52b29a9287dc4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "计算机/Linux/搭建/Github/github token.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40dce62a81352ec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c02a0ede20b0e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd04c0988f479cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "256cf978fc195fc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "github ghp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "75d762b907836653",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1cf1260a079e344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40164d29dd0ac781",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机/Linux/搭建/Github/github token.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a8f45e3ce46483d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cde9631114ba0f80",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fcca3990566e24a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机/Linux/搭建/Github/github token.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e52b29a9287dc4e",
+  "lastOpenFiles": [
+    "计算机/Linux/搭建/Github/github token.md",
+    "计算机/Linux/搭建/Github/GitHub CLI.md",
+    "计算机/Linux/搭建/supabase部署应用.md",
+    "计算机/Linux/搭建/部署搭建.md",
+    "计算机/lang/Penetration/tools/Weapon/Android/Andrax/部署.md",
+    "计算机/Linux/搭建/self-hosted/self-hosts.md",
+    "计算机/Linux/搭建/搭建书签归档 bookmark.md",
+    "计算机/Linux/搭建/hexo博客搭建和部署.md",
+    "计算机/lang/Penetration/tools/CS/实操/CS部署 CS.md",
+    "计算机/lang/Python/3rdLibrary/hapless未命名.md"
+  ]
+}
