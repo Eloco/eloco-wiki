@@ -1,0 +1,29 @@
+on:
+  schedule:
+  - cron: '0 *12 * * *' # every half day
+  workflow_dispatch:
+
+name: deploy_okteto
+
+env:
+  namespace: auto-eloco
+
+jobs:
+
+  devflow:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout
+      uses: actions/checkout@v2
+
+
+    - name: okteto cli
+      run: | 
+        curl https://get.okteto.com -sSfL | sh
+        okteto context use https://cloud.okteto.com --token ${{ secrets.OKTETO_TOKEN }}
+        okteto namespace create ${{ env.namespace }}
+        okteto build
+        okteto deploy
+      shell: bash
+
