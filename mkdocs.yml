@@ -1,0 +1,118 @@
+site_name: Eloco wiki
+repo_url: https://github.com/Eloco/eloco-wiki
+repo_name: eloco-wiki
+edit_uri: edit/main/docs/
+
+extra:
+  search:
+    language: 'jp'
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'Light Green'
+    accent: 'Pink'
+  feature:
+    tabs: false
+  #font:
+    #text: 'Ubuntu'
+    #code: 'Ubuntu Mono'
+  language: 'zh'
+
+#nav:
+#  - 介绍: index.md
+#  - 安装:
+#      - 本地环境搭建: install/local.md
+#      - 发布至GitHub Pages: install/github-pages.md
+#      - 发布至自己的HTTP Server: install/http-server.md
+#  - 语法:
+#      - 语法总览: syntax/main.md
+#      - 标题: syntax/headline.md
+#      - 段落: syntax/paragraph.md
+
+markdown_extensions:
+  - abbr
+  - admonition # enables coloured blocks mid article
+  - attr_list # improves image handling
+  - footnotes
+  - meta # adds support for front matter
+  - pymdownx.highlight: # code highlighting
+      linenums: true
+  - pymdownx.tabbed # enables tabs for embedded blocks
+  - pymdownx.snippets
+  - pymdownx.superfences # allows for the nesting of code blocks inside other blocks
+  - pymdownx.keys
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+#theme:
+#  name: material
+#  custom_dir: overrides
+#  language: jq
+#  #logo: images/site/logo.png
+#  favicon: images/assets/favicon.png
+#  icon:
+#    repo: fontawesome/brands/github
+#    logo: fontawesome/regular/folder-open
+#  palette:
+#    - scheme: default
+#      primary: blue
+#      accent: teal
+#      toggle:
+#        icon: material/weather-night
+#        name: Switch to dark mode
+#    - scheme: slate
+#      toggle:
+#        icon: material/weather-sunny
+#        name: Switch to light mode
+#  font:
+#    code: Jet Brains Mono
+#  features:
+#    - navigation.instant
+#    - navigation.sections # prevents collapsible sections
+#    - navigation.indexes # section index pages
+#    - navigation.expand #expands sections by default
+#  # insiders only
+#  #   - search.suggest
+
+plugins:
+  - git-revision-date
+  - search
+  - minify:
+      minify_html: true
+
+extra_css:
+  - extra.css
+
+#extra:
+#  social:
+#    - icon: 'fontawesome/brands/github'
+#      link: 'https://github.com/ironicbadger'
+#      name: Eloco on GitHub
