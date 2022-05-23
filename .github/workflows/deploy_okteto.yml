@@ -1,6 +1,6 @@
 on:
   schedule:
-  - cron: '0 *12 * * *' # every half day
+  - cron: '0 */12 * * *' # every half day
   workflow_dispatch:
 
 name: deploy_okteto
