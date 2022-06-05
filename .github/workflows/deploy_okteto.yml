@@ -26,4 +26,3 @@ jobs:
         okteto build
         okteto deploy
       shell: bash
-
