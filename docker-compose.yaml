@@ -8,18 +8,11 @@ services:
       - .:/docs
     ports:
       - 8080:8000
-  wikmd:
-    image: linbreux/wikmd:latest
-    container_name: wikmd
-    #environment:
-      #- PUID=1000
-      #- PGID=1000
-      #- TZ=Europe/Paris
-      #- HOMEPAGE=homepage.md #optional
-      #- HOMEPAGE_TITLE=homepage.md #optional
-      #- WIKMD_LOGGING=1 #optional
-    volumes:
-      - ./docs:/wiki
-    ports:
-      - 80:5000
-    restart: unless-stopped
+  #wikmd:
+  #  build: wikmd/.
+  #  container_name: wikmd
+  #  ports:
+  #    - 80:5000
+  #  restart: unless-stopped
+  #  volumes:
+  #    - ./docs:/wiki
