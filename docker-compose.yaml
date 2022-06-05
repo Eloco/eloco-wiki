@@ -11,9 +11,9 @@ services:
   wikmd:
     image: linbreux/wikmd:latest
     container_name: wikmd
-    environment:
-      - PUID=1000
-      - PGID=1000
+    #environment:
+      #- PUID=1000
+      #- PGID=1000
       #- TZ=Europe/Paris
       #- HOMEPAGE=homepage.md #optional
       #- HOMEPAGE_TITLE=homepage.md #optional
