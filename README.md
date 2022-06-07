@@ -3,6 +3,7 @@
 Best self-hosted practices for shareable knowledge ( markdown && wiki )
 
 1. mkdocs (Support Chinese search)
-2. Obsidian
-3. github action
-4. heroku or okteto
+2. wikmd (future maybe support edit)
+3. Obsidian
+4. github action
+5. heroku or okteto
