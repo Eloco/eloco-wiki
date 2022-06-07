@@ -1,4 +1,5 @@
-https://wikmd-auto-eloco.cloud.okteto.net 
+https://wikmd-auto-eloco.cloud.okteto.net/
+
 https://mkdocs-auto-eloco.cloud.okteto.net/
 
 # eloco-wiki
