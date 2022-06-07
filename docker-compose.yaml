@@ -23,6 +23,7 @@ services:
       - HOMEPAGE_TITLE=index.md #optional
       - WIKMD_LOGGING=1 #optional
       - WIKI_DIRECTORY=/wiki
+      - WIKMD_PORT=5000
     ports:
       - 8081:5000
     restart: unless-stopped
