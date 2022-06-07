@@ -24,7 +24,7 @@ services:
       - WIKMD_LOGGING=1 #optional
       - WIKI_DIRECTORY=/wiki
     ports:
-      - 8080:5000
+      - 80:5000
     restart: unless-stopped
     #volumes:
     #  - ./docs:/wiki
