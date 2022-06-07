@@ -2,17 +2,29 @@ version: "3.3"
 
 services:
   wiki:
-    build: .
+    build: 
+      context: ./
+      dockerfile: ./Dockerfile_mkdocs
     image: eloco-wiki
     volumes:
       - .:/docs
     ports:
       - 8080:8000
-  #wikmd:
-  #  build: wikmd/.
-  #  container_name: wikmd
-  #  ports:
-  #    - 80:5000
-  #  restart: unless-stopped
-  #  volumes:
-  #    - ./docs:/wiki
+  wikmd:
+    build: 
+      context: ./
+      dockerfile: ./Dockerfile_wikmd
+    container_name: wikmd
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Shanghai
+      - HOMEPAGE=index.md #optional
+      - HOMEPAGE_TITLE=index.md #optional
+      - WIKMD_LOGGING=1 #optional
+      - WIKI_DIRECTORY=/wiki
+    ports:
+      - 8080:5000
+    restart: unless-stopped
+    #volumes:
+    #  - ./docs:/wiki

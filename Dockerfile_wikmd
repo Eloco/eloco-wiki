@@ -1,0 +1,3 @@
+FROM linbreux/wikmd:latest
+COPY ./docs /wiki
+RUN chown -R abc:abc wiki/ #&& chown -R abc:abc wikmd
