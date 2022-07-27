@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Physics/未命名.md",
+            "file": "docs/Physics/诺特定理.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Physics/未命名.md",
+                "file": "docs/Physics/诺特定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Physics/未命名.md"
+                "file": "docs/Physics/诺特定理.md"
               }
             }
           }
