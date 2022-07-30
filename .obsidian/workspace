@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/video note/知乎/知乎收藏一.md",
+            "file": "docs/video note/知乎/YouTube精选字幕​.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/video note/知乎/知乎收藏一.md",
+                "file": "docs/video note/知乎/YouTube精选字幕​.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/video note/知乎/知乎收藏一.md"
+                "file": "docs/video note/知乎/YouTube精选字幕​.md"
               }
             }
           }
@@ -119,8 +119,8 @@
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
-    "docs/Physics/piece/宇称不守恒.md",
     "docs/video note/知乎/知乎收藏一.md",
+    "docs/Physics/piece/宇称不守恒.md",
     "docs/index.md",
     "docs/Physics/piece/诺特定理.md",
     "docs/Physics/prove/最速降线证明.md",
