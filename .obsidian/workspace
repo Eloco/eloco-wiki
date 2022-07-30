@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Physics/piece/宇称不守恒.md",
+            "file": "docs/video note/知乎/知乎收藏一.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Physics/piece/宇称不守恒.md",
+                "file": "docs/video note/知乎/知乎收藏一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Physics/piece/宇称不守恒.md"
+                "file": "docs/video note/知乎/知乎收藏一.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
+    "docs/Physics/piece/宇称不守恒.md",
     "docs/video note/知乎/知乎收藏一.md",
     "docs/index.md",
     "docs/Physics/piece/诺特定理.md",
@@ -127,7 +128,6 @@
     "README.md",
     "docs/video note/妈咪说MommyTalk.md",
     "docs/未命名.md",
-    "docs/Physics/piece/创建力场.md",
-    "计算机/Linux/搭建/Github/github token.md"
+    "docs/Physics/piece/创建力场.md"
   ]
 }
