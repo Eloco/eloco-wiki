@@ -1,2 +1,3 @@
 ## [你为什么无法静下心来学习](https://www.zhihu.com/zvideo/1535953454941519873)
 
+潜意识的冲动和所形成的习惯让你wu'fa'zhuan'zhu
