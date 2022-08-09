@@ -19,103 +19,79 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "40dce62a81352ec5",
-    "type": "split",
+    "id": "ace45ef20d988725",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "62c02a0ede20b0e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7fd04c0988f479cc",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "256cf978fc195fc9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "e93d2389a1fa02b2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4cfff7edfa033f7b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "d9381232090901fa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 259
+    "currentTab": 0
   },
   "right": {
-    "id": "75d762b907836653",
-    "type": "split",
+    "id": "d78574dd2ef0ccbf",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a1cf1260a079e344",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "40164d29dd0ac781",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/video note/知乎/知乎收藏一.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2a8f45e3ce46483d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "cde9631114ba0f80",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "8fcca3990566e24a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/video note/知乎/知乎收藏一.md"
-              }
-            }
+        "id": "d21828031aabfcaf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/video note/知乎/知乎收藏一.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 2
+        }
+      },
+      {
+        "id": "b7ff8a3d55ea6a7c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "docs/video note/知乎/知乎收藏一.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
