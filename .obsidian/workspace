@@ -19,94 +19,79 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d1bf751863dfc20",
-    "type": "split",
+    "id": "591757ebe0721f5f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3cd98e1b396ba977",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8dd3512bac9634dd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "8525ce528352e09b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "022f629416f68f59",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d52bc3a464aec988",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "fd706bbb02f4d1eb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "a5e6f9639c15116f",
-    "type": "split",
+    "id": "74c734f23f0a199c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "44b8bcc24a5da2a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8830253fb8b297e2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/video note/知乎/知乎收藏一.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0dafc4469231d280",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5816ebe39ae88818",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/video note/知乎/知乎收藏一.md"
-              }
-            }
+        "id": "de7f32c1367515a5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/video note/知乎/知乎收藏一.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "0d79cddd4f6de372",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "docs/video note/知乎/知乎收藏一.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
