@@ -6,7 +6,7 @@ on:
 name: deploy_okteto
 
 env:
-  namespace: auto-eloco
+  namespace: sherlogicocal
 
 jobs:
 
