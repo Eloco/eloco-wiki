@@ -13,7 +13,18 @@
 ## [快速计算100以内两个任意数乘法的技巧](https://www.zhihu.com/zvideo/1542191495301390336)
 ## [神奇的数学实验：双色旋转管](https://www.zhihu.com/zvideo/1542192568749547521)
 ## [人类最重要的发明：晶体管](https://www.zhihu.com/zvideo/1541775039141179392)
-## [费曼访谈：用原子的角度阐释 橡皮筋的原理](https://www.zhihu.com/zvideo/1541773009446129664)
+## [物理学知识巅峰：量子力学](https://www.zhihu.com/zvideo/1537420651538722816)
+## [如何早起：拯救起床困难户](https://www.zhihu.com/zvideo/1539595453561085953)
+## [人类对“熵”的误解](https://www.zhihu.com/zvideo/1538845701433257984)
+## [剑桥大学博士：我是如何从数学渣变成量子物理学家的](https://www.zhihu.com/zvideo/1538574154751574016)
+## [《原子习惯》受益匪浅的总结](https://www.zhihu.com/zvideo/1540020134835548160)
+## [弦理论中的弦是什么](https://www.zhihu.com/zvideo/1538150199196766208)
+## [为什么飞机的窗户是圆的？](https://www.zhihu.com/zvideo/1541125598893715456)
+## [电磁炮的工作原理](https://www.zhihu.com/zvideo/1540704074190483456)
+## [什么是拓扑学？](https://www.zhihu.com/zvideo/1540706757987184641)
+## [领略数学的迷人之处](https://www.zhihu.com/zvideo/1537416156633260032)
+## [粒子物理标准模型：有史以来最成功的科学理论](https://www.zhihu.com/zvideo/1539595394539778048)
+## [提高记忆力的7种方法](https://www.zhihu.com/zvideo/1538841914354323456)
 
 
 

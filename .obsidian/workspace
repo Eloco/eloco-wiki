@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/video note/3Blue1Brown/微积分的本质.md",
+            "file": "docs/video note/知乎/我有一个咖啡书屋/视频.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/video note/3Blue1Brown/微积分的本质.md",
+                "file": "docs/video note/知乎/我有一个咖啡书屋/视频.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/video note/3Blue1Brown/微积分的本质.md"
+                "file": "docs/video note/知乎/我有一个咖啡书屋/视频.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
-    "docs/video note/妈咪说MommyTalk/五次方程.md",
+    "docs/video note/知乎/我有一个咖啡书屋/未命名.md",
+    "docs/video note/知乎/未命名.md",
     "docs/video note/知乎/YouTube精选字幕​.md",
+    "docs/video note/知乎/广义相对论中的数学.md",
     "docs/video note/知乎/油管科学.md",
     "docs/video note/知乎/知乎收藏一.md",
-    "docs/Physics/piece/宇称不守恒.md",
-    "docs/index.md",
-    "docs/Physics/piece/诺特定理.md",
-    "docs/Physics/prove/最速降线证明.md",
-    "README.md",
-    "docs/video note/妈咪说MommyTalk.md"
+    "docs/video note/知乎/国外精选教学视频.md",
+    "docs/video note/访谈/费曼访谈.md",
+    "docs/video note/访谈/杨振宁访谈.md",
+    "docs/video note/未命名.md"
   ]
 }
