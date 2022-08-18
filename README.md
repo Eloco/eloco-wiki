@@ -1,7 +1,3 @@
-https://wikmd-auto-eloco.cloud.okteto.net/
-
-https://mkdocs-auto-eloco.cloud.okteto.net/
-
 # eloco-wiki
 
 Best self-hosted practices for shareable knowledge ( markdown && wiki )
