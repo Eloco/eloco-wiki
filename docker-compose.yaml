@@ -2,6 +2,7 @@ version: "3.3"
 
 services:
   mkdocs:
+    container_name: eloco-wiki
     build: 
       context: ./
       dockerfile: ./Dockerfile_mkdocs
