@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/video note/知乎/油管科学.md",
+            "file": "docs/video note/知乎/YouTube精选字幕​.md",
             "mode": "source",
             "source": false
           }
@@ -19,91 +19,106 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea91669c28024365",
-    "type": "mobile-drawer",
+    "id": "c9db5dac53b05a64",
+    "type": "split",
     "children": [
       {
-        "id": "35cad01e15c77eb0",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "a6e5f4a3b89b4410",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "c7bd1b09c6592d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86bd71cbb77894ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ca6247333b2bb05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "1d0a4d449d25b99e",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9d72e9a0bf3aab7e",
-    "type": "mobile-drawer",
+    "id": "f6d388516defe526",
+    "type": "split",
     "children": [
       {
-        "id": "57a42314aa9ad79f",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "docs/video note/知乎/油管科学.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "060cee115aa1a226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f905de2edb94851",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/video note/知乎/YouTube精选字幕​.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb1dcd23d1bcb49f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42549e4c330cf2cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/video note/知乎/YouTube精选字幕​.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "ca07fbf4677adb70",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "docs/video note/知乎/油管科学.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "3e52b29a9287dc4e",
   "lastOpenFiles": [
     "docs/video note/知乎/国外精选教学视频.md",
     "docs/video note/知乎/知乎收藏一.md",
-    "docs/index.md",
+    "docs/video note/知乎/油管科学.md",
+    "docs/video note/访谈/杨振宁访谈.md",
+    "docs/video note/知乎/YouTube精选字幕​.md",
+    "docs/video note/访谈/费曼访谈.md",
     "docs/video note/知乎/我有一个咖啡书屋/视频.md",
     "docs/video note/知乎/我有一个咖啡书屋/未命名.md",
     "docs/video note/知乎/未命名.md",
-    "docs/video note/知乎/YouTube精选字幕​.md",
-    "docs/video note/知乎/广义相对论中的数学.md",
-    "docs/video note/知乎/油管科学.md",
-    "docs/video note/访谈/费曼访谈.md"
+    "docs/video note/知乎/广义相对论中的数学.md"
   ]
 }
