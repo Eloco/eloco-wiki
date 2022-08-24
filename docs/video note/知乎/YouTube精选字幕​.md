@@ -29,6 +29,13 @@
 ## [科学上如何解释意识](https://www.zhihu.com/zvideo/1543210566067720193)
 ## [神经流形学（蕴藏在大脑里的美丽几何）：用拓扑数据应用神经活动](https://www.zhihu.com/zvideo/1543654150914969600)
 ## [关于数学（拓扑学）：令人费解的回形针实验](https://www.zhihu.com/zvideo/1543951091422932992)
+## [直观的解释：频率响应](https://www.zhihu.com/zvideo/1545394156238970880)
+## [世界上最轻的固体气凝胶（物理特性和应用）](https://www.zhihu.com/zvideo/1545394068448083969)
+## [前FBI探员教你解读肢体语言](https://www.zhihu.com/zvideo/1545396701564968961)
+## [我们生活在虚拟世界吗？](https://www.zhihu.com/zvideo/1545086495874265088)
+## [数学数字实验：幻方魔术](https://www.zhihu.com/zvideo/1545083819962634241)
+## [从数学的角度去理解：世界的本质](https://www.zhihu.com/zvideo/1545084091141337089)
+## [世界上最黑物质：碳纳米管制造的神奇黑体](https://www.zhihu.com/zvideo/1544672018213261313)
 
 
 
