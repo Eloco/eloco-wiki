@@ -19,79 +19,94 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea91669c28024365",
-    "type": "mobile-drawer",
+    "id": "3774d70337539f0d",
+    "type": "split",
     "children": [
       {
-        "id": "35cad01e15c77eb0",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "a6e5f4a3b89b4410",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "12021214efab5a43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "215c13275ecf85bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2228dbf953df6a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "1d0a4d449d25b99e",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9d72e9a0bf3aab7e",
-    "type": "mobile-drawer",
+    "id": "73159d62cabc741c",
+    "type": "split",
     "children": [
       {
-        "id": "57a42314aa9ad79f",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "docs/video note/知乎/YouTube精选字幕​.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "fc621d2e95513b0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "715d4a8d339be1e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/video note/知乎/YouTube精选字幕​.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0409b5e9d0c597a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "966fdf7d68cda665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/video note/知乎/YouTube精选字幕​.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "ca07fbf4677adb70",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "docs/video note/知乎/YouTube精选字幕​.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "450f687ee62e9d83",
   "lastOpenFiles": [
