@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "docs/Physics/piece/宇称不守恒.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "docs/Physics/piece/宇称不守恒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "docs/Physics/piece/宇称不守恒.md"
               }
             }
           }
@@ -110,8 +110,8 @@
   },
   "active": "863947d5c277c048",
   "lastOpenFiles": [
-    "docs/index.md",
     "conflict-files-obsidian-git.md",
+    "docs/index.md",
     "docs/video note/知乎/YouTube精选字幕​.md",
     "docs/video note/知乎/油管科学.md",
     "docs/video note/知乎/国外精选教学视频.md",
