@@ -63,3 +63,4 @@
 ## [数学数字实验：幻方魔术](https://www.zhihu.com/zvideo/1545083819962634241)
 ## [从数学的角度去理解：世界的本质](https://www.zhihu.com/zvideo/1545084091141337089)
 ## [世界上最黑物质：碳纳米管制造的神奇黑体](https://www.zhihu.com/zvideo/1544672018213261313)
+## [球体表面积公式是如何推导的？](https://www.zhihu.com/zvideo/1548670557725642753)
