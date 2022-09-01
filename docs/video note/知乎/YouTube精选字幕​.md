@@ -64,3 +64,9 @@
 ## [从数学的角度去理解：世界的本质](https://www.zhihu.com/zvideo/1545084091141337089)
 ## [世界上最黑物质：碳纳米管制造的神奇黑体](https://www.zhihu.com/zvideo/1544672018213261313)
 ## [球体表面积公式是如何推导的？](https://www.zhihu.com/zvideo/1548670557725642753)
+## [无人能解的悖论（探讨了人类认知的本质和极限）](https://www.zhihu.com/zvideo/1547205830205964288)
+## [物理实验：清澈的水滴为什么会产生彩虹色](https://www.zhihu.com/zvideo/1547935057607876608)
+## [【直观解释】多元宇宙](https://www.zhihu.com/zvideo/1541385899861868544)
+## [可视化量子波函数](https://www.zhihu.com/zvideo/1547934976905342976)
+## [一个令人深思的哲学思想实验：玛丽的房间](https://www.zhihu.com/zvideo/1547934836731629568)
+## []
