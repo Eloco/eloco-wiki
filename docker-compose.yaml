@@ -3,6 +3,7 @@ version: "3.3"
 services:
   mkdocs:
     container_name: eloco-wiki
+    restart: always
     build: 
       context: ./
       dockerfile: ./Dockerfile_mkdocs
