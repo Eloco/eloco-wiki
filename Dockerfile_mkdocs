@@ -1,7 +1,7 @@
 FROM python:3.9.2-alpine3.13
 
 RUN apk update &&  \
-        apk add --no-cache git
+        apk add --no-cache git gcc libc-dev
 
 RUN pip install mkdocs \
         mkdocs-material \
